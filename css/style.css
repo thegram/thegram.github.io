@@ -311,7 +311,7 @@ header {
           left: 0;
           right: 0;
           opacity: .5;
-          background: #303030; }
+          }
     #colorlib-hero .flexslider .flex-control-nav {
       bottom: 2em;
       z-index: 1000;
