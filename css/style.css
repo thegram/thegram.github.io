@@ -1176,6 +1176,8 @@ header {
     outline: none !important; }
 
 .btn-primary {
+  background-color: #ff61079c;
+  background-color: rgba(255, 0, 0, 0.4)
   background: #FF6107;
   color: #fff;
   border: 2px solid #FF6107; }
